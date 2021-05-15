@@ -1,0 +1,29 @@
+header{
+  background-color: black;
+  color: white;
+  font-size: 50px;
+}
+body{
+  background-color: indigo;
+  color: orange;
+}
+h2{
+  background-color: purple;
+  color: pink;
+}
+h3{
+  background-color: green;
+  color: pink;
+}
+h4{
+  background-color: black;
+  color: pink;
+}
+h5{
+  background-color: white;
+  color: green;
+}
+h6{
+  background-color: yellow;
+  color: red;
+}
